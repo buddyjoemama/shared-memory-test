@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H8fr7Lp/DfRiZVTtJcaLQrhNoKrf1vWVh46Q4oJhbyM=",
+  "Source": "shared-memory-server",
+  "BasePath": "_content/shared-memory-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

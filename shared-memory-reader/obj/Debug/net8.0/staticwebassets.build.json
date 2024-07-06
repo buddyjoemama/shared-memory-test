@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VxDC9T5Lkk9zKTwIF/Y587b5VY/1gFlyNzriMph0Ddk=",
+  "Source": "shared-memory-reader",
+  "BasePath": "_content/shared-memory-reader",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
